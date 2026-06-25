@@ -1,7 +1,7 @@
 # Diabetes Prediction System
 
-![Repo Size](https://img.shields.io/github/repo-size/your-username/Diabetes_Prediction_System)
-![License](https://img.shields.io/github/license/your-username/Diabetes_Prediction_System)
+![Repo Size](https://img.shields.io/github/repo-size/SnehaTanwar006/Diabetes_Prediction_System)
+![License](https://img.shields.io/github/license/SnehaTanwar006/Diabetes_Prediction_System)
 
 ## 🚀 Project Overview
 The **Diabetes Prediction System** is a web application built with Flask and Python that predicts whether a patient has diabetes based on key health metrics. It bundles multiple pre-trained machine-learning models and presents a clean, responsive interface for rapid, high-confidence diagnoses.
