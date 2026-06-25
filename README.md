@@ -28,7 +28,7 @@ The **Diabetes Prediction System** is a web application built with Flask and Pyt
 ## ⚙️ Installation & Setup
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/Diabetes_Prediction_System.git
+   git clone https://github.com/SnehaTanwar006/Diabetes_Prediction_System.git
    cd Diabetes_Prediction_System
 
 2. **Create & activate a virtual environment**  
