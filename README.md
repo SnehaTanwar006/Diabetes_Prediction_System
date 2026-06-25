@@ -57,8 +57,6 @@ The **Diabetes Prediction System** is a web application built with Flask and Pyt
 - **K-Nearest Neighbors**: distance-based classifier  
 - **Gradient Boosting**: ensemble tree model (highest accuracy)
 
-> _Tip:_ update the accuracy/AUC numbers here after you evaluate on your validation set.
-
 ## 🤝 Contributing
 1. Fork & clone  
 2. Create a branch:  
@@ -72,4 +70,4 @@ Distributed under the [MIT License](LICENSE).
 
 ---
 
-*Built with ❤ by Sneha Tanwar*
+<p align="center">Made with ❤️ by <a href="https://github.com/SnehaTanwar006">Sneha Tanwar</a></p>
